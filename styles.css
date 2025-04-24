@@ -119,3 +119,8 @@ footer {
   background-color: #2a2a2a;
   color: white;
 }
+.toggle-btn:active {
+  box-shadow: 0 0 10px #fff, 0 0 20px #33ff33;
+  transform: scale(0.98);
+}
+
